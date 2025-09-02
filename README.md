@@ -11,3 +11,5 @@ While making this project (for a game jam) I learned the importance of keeping m
 <img width="643" height="375" alt="Screenshot 2025-08-31 at 12 13 28 AM" src="https://github.com/user-attachments/assets/7e9cf16a-659c-46a3-af30-b95017ef7b26" />
 
 Made with Godot
+
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
