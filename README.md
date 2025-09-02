@@ -1,4 +1,5 @@
 A simple game... but with cats!
+
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
 
 Press WASD to move and E to serenade the cats. 
